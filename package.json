@@ -1,0 +1,19 @@
+{
+    "name": "fis3-prepackager-ques",
+    "version": "0.0.1",
+    "description": "fis3 prepackager plugin for ques",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "engines": {
+        "node": ">=4.2.0"
+    },
+    "author": ["Fishine Yuan"],
+    "license": "MIT",
+    "dependencies": {
+        "ques-core": "~0.0.1",
+        "lodash": "~4.5.1"
+    }
+}
+
