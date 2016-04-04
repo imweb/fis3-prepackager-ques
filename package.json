@@ -1,6 +1,6 @@
 {
     "name": "fis3-prepackager-ques",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "fis3 prepackager plugin for ques",
     "main": "index.js",
     "scripts": {
@@ -12,7 +12,7 @@
     "author": ["Fishine Yuan"],
     "license": "MIT",
     "dependencies": {
-        "ques-core": "~0.0.1",
+        "ques-core": "~0.0.3",
         "lodash": "~4.5.1"
     },
     "repository": {
