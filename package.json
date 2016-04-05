@@ -1,11 +1,8 @@
 {
     "name": "fis3-prepackager-ques",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "fis3 prepackager plugin for ques",
     "main": "index.js",
-    "scripts": {
-        "test": "mocha"
-    },
     "engines": {
         "node": ">=4.2.0"
     },
@@ -14,6 +11,11 @@
     "dependencies": {
         "ques-core": "~0.0.3",
         "lodash": "~4.5.1"
+    },
+    "devDependencies": {
+        "gulp": "~3.9.1",
+        "gulp-babel": "~6.1.2",
+        "gulp-rimraf": "~0.2.0"
     },
     "repository": {
         "type": "git",
