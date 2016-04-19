@@ -1,6 +1,6 @@
 {
     "name": "fis3-prepackager-ques",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "fis3 prepackager plugin for ques",
     "main": "index.js",
     "engines": {
